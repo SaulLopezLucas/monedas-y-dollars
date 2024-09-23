@@ -4,40 +4,35 @@ Submitted by: **Saul Lopez Lucas**
 
 This web app: **This is an informational resource board designed to help Mexican-Americans get a better grasp on their finances. It covers key financial topics, from budgeting to investing to retirement planning.**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
+- [X] **There is a unique theme for events or resources relevant to a specific community**
 - [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
+- [X] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [X] Added hover animation to cards
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjB2YjB3N2liOWM5bzQyMHUya3B2MXRrb2FuMm42bTA2YTN2eXkyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7cAckw85uChStcR4hN/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with KAP
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Overall, the process of creating this website was very simple. I didn't run into any major roadblocks other than simple syntax errors. It was fun getting to create and design the website from scratch, and I hope to continue to contribute to this resource board in the future with new features and content.
 
 ## License
 
